@@ -4,7 +4,7 @@ In-class python notebooks created for my Spring 2024 Astrophysics III (Galaxies 
 
 Activity 1 - Finding the shape and size of the Milky Way using positions of open and globular clusters
 
-Activity 2 - Measure the redshifts and distances to galaxies to create your own Hubble's Law  (using [UW Astronomy's lab](https://depts.washington.edu/astroed/HubbleLaw/))
+Activity 2 - Measure the redshifts and distances to galaxies to create your own Hubble's Law  (using a [UW's astronomy lab](https://depts.washington.edu/astroed/HubbleLaw/))
 
 Activity 3 - Investigate the brightness profile and rotion curve of Andromeda to calculate the mass in stars vs. dark matter
 
