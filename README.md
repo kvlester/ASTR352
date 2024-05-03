@@ -1,5 +1,4 @@
-# ASTR352
-Python activities for ASTR 352
+# Python activities for ASTR 352
 
 In-class python notebooks created for my Spring 2024 Astrophysics III (Galaxies & the Universe) class at Mount Holyoke College. Students ran these notebooks in Google Colab. Each folder has the starting notebook, data sets, and the finished solution notebook.
 
