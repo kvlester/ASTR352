@@ -1,2 +1,12 @@
 # ASTR352
-Python activities for ASTR 352 in Spring 2024 at MHC.
+Python activities for ASTR 352
+
+In-class python notebooks created for my Spring 2024 Astrophysics III (Galaxies & the Universe) class at Mount Holyoke College. Students ran these notebooks in Google Colab. Each folder has the starting notebook, data sets, and the finished solution notebook.
+
+Activity 1 - Finding the shape and size of the Milky Way using positions of open and globular clusters
+
+Activity 2 - Measure the redshifts and distances to galaxies to create your own Hubble's Law  (using [UW Astronomy's lab](https://depts.washington.edu/astroed/HubbleLaw/))
+
+Activity 3 - Investigate the brightness profile and rotion curve of Andromeda to calculate the mass in stars vs. dark matter
+
+Activity 4 - Use photometry and spectrum to calculate the mass of a supermassive black hole with reverberation mapping
